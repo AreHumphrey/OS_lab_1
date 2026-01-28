@@ -1,0 +1,9 @@
+
+build/
+
+*.exe
+*.out
+hello-world
+
+.DS_Store
+Thumbs.db
